@@ -1,0 +1,33 @@
+nav{
+    background:blue;
+    padding:20px;
+}
+nav a{
+    margin-left:40px;
+    color:white;
+    font-weight:bold;
+}
+.hiddenform{
+display:none;
+padding:20px;
+border-radius:20px;
+position:absolute;
+width:70%;
+margin-left:100px;
+background:blue;
+}
+
+.hiddenform input{
+    width:90%;
+    height:25px;
+    padding:10px;
+}
+.hiddenform .button{
+    background:red;
+    padding:40px;
+    height:40px;
+    width:30%;
+    margin-top:10px;
+    border:none;
+    border-radius:4px;
+}
